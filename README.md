@@ -1,6 +1,6 @@
 # SIMRS-Khanza
 
-Software ini adalah Software Menejemen Rumah Sakit/ Klinik / Puskesmas yang gratis dan boleh digunakan siapa saja tanpa dikenai biaya apapun. Dilarang keras memperjualbelikan / mengambil keuntungan dari Software ini dalam bentuk apapun tanpa seijin pembuat software (Khanza.Soft Media).
+Software ini adalah Software Menejemen Rumah Sakit / Klinik / Puskesmas yang gratis dan boleh digunakan siapa saja tanpa dikenai biaya apapun. Dilarang keras memperjualbelikan / mengambil keuntungan dari Software ini dalam bentuk apapun tanpa seijin pembuat software (Khanza.Soft Media).
 
 ## Fitur SIMRS Khanza:
 
