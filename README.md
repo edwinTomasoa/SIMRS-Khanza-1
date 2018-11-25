@@ -1,8 +1,6 @@
 # SIMRS-Khanza
 
-Software ini adalah Software Menejemen Rumah Sakit/Klinik/ Puskesmas yang gratis dan boleh digunakan siapa saja tanpa dikenai
-biaya apapun. Dilarang keras memperjualbelikan/mengambil keuntungan dari Software ini dalam bentuk apapun tanpa seijin pembuat
-software (Khanza.Soft Media).
+Software ini adalah Software Menejemen Rumah Sakit/ Klinik / Puskesmas yang gratis dan boleh digunakan siapa saja tanpa dikenai biaya apapun. Dilarang keras memperjualbelikan / mengambil keuntungan dari Software ini dalam bentuk apapun tanpa seijin pembuat software (Khanza.Soft Media).
 
 ## Fitur SIMRS Khanza:
 
@@ -20,3 +18,10 @@ software (Khanza.Soft Media).
 12. Aman, menggunakan metodologi role user untuk pemberian hak akses pada setiap user/pemakai guna menghindari penyalahgunaan aplikasi dan manipulasi data
 13. Dukungan oleh owner (Bapak Windiarto Nugroho S.Kom), yang telah berpengalaman dalam implementasi di berbagai tipe rumah sakit dan klinik di seluruh Indonesia
 14. Dukungan 24 jam oleh komunitas pengguna SIMRS Khanza seluruh Indonesia.
+
+
+Licensi yang dianut di software ini https://en.wikipedia.org/wiki/Aladdin_Free_Public_License
+
+Informasi dan panduan bisa dicek di halaman https://github.com/mas-elkhanza/SIMRS-Khanza/wiki
+
+Bagi yang ingin donasi untuk SIMRS Khanza bisa lewat BRI Syariah 1015369872 atas nama Windiarto
